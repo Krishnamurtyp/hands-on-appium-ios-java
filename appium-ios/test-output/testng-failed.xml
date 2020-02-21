@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="hands.on.appium_ios.others.SelectValueFromDropDown">
+      <class name="hands.on.appium_ios.elements.WorkingWithElements">
         <methods>
-          <include name="example"/>
+          <include name="testAppActivity"/>
         </methods>
-      </class> <!-- hands.on.appium_ios.others.SelectValueFromDropDown -->
+      </class> <!-- hands.on.appium_ios.elements.WorkingWithElements -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
